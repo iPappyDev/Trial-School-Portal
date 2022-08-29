@@ -1,0 +1,33 @@
+section {
+    background-color: rgb(104, 11, 11);
+    height: 100vh;
+
+}
+#infopage {
+    min-height: 100vh;
+    background-color: rgb(104, 11, 11);
+    color: white ;
+}
+#yes {
+    margin: auto;
+    width: 70%;
+    color: white;
+    
+}
+p {
+    margin: auto;
+    color: black;
+}
+#menu{
+    background-color: black;
+    color: white;
+}
+center {
+    color: white;
+}
+td{
+    color: white;
+}
+#btnindex {
+    background-color: white;
+}
